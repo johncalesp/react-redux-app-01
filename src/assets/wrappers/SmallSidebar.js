@@ -66,10 +66,10 @@ const Wrapper = styled.aside`
     place-items: center;
     transition: var(--transition);
   }
-  .active {
+  .active-link {
     color: var(--grey-900);
   }
-  .active .icon {
+  .active-link .icon {
     color: var(--primary-500);
   }
 `
